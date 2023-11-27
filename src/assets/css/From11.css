@@ -1,0 +1,28 @@
+.x{
+    font-family:cursive; 
+    font-size: 20px;
+    font-weight: 600;
+ 
+ }
+ .af{
+     background-color:lavender;
+     width:600px;
+     margin-left:460px;
+     margin-top: 40px;
+     height: 1180px;
+     margin-bottom: 50px;
+     padding-bottom: 15px;
+     border:20px solid black;
+    
+ }
+ .bgaa{
+     background-image: url("https://i.pinimg.com/564x/d2/0f/49/d20f492d941817cc9105c019cabf7d9a.jpg");
+     background-size: cover;
+     background-position: center center;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100vw;
+     height: 100vh;
+     z-index: -1;
+ }

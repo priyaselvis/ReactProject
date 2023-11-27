@@ -1,0 +1,56 @@
+.hello{
+    margin:auto;
+    margin-top:150px;
+    background: #fff;
+    padding-bottom:20px;
+    width:500px;
+    border:5px solid black;
+    border-radius: 50px;
+}
+.bg{
+
+    background-image: url("https://i.pinimg.com/564x/e1/d4/b0/e1d4b0e712065e1b3118e80deea29512.jpg");
+    background-size: cover;
+    background-position: center center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+.input{
+    display:flex;
+    align-items: center;
+    margin: auto;
+    height:60px;
+    width:350px;
+    background: #eaeaea;
+    border-radius: 100px;
+
+
+}
+.inputs{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.mail{
+   
+    margin-left:75px;
+    display:flex;
+}
+.pass
+{
+    margin-left:75px;
+    display:flex;
+}
+.name{
+    margin-left:75px;
+    display:flex;
+}
+.for
+{
+    color:palevioletred;
+}
